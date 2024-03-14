@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @samkhachtrian
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Inst.- _.7._sam_.7._
